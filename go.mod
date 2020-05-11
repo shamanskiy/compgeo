@@ -1,3 +1,3 @@
-module github.com/shamanskiy/compgeo
+module github.com/Shamanskiy/compgeo
 
 go 1.14
