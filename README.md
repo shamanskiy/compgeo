@@ -27,8 +27,8 @@ This will build `APP-NAME` and install it to `GO_PATH/bin`.
 
 ## List of available algorithms
 So far, the list of available algorithms is rather humble. It includes:
-* Graham's scan for computing the convex hull of a point cloud
-* the shoelace algorithm for computing the area of a simple polygon
+* [Graham's scan](https://en.wikipedia.org/wiki/Graham_scan) for computing the convex hull of a point cloud
+* [the shoelace algorithm](https://en.wikipedia.org/wiki/Shoelace_formula) for computing the area of a simple polygon
 
 ## List of examples
 All examples require a JSON file with points as an input. For example, the following file defines a list of 3 points in 2D space:
